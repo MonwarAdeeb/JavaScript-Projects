@@ -1,0 +1,1 @@
+In this repository I'll be adding the projects that are created using JavaScript while learning & practicing JavaScript.
