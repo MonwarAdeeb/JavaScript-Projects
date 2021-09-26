@@ -1,1 +1,1 @@
-Run index.html and it'll open up in your browser with the countdown.
+Run index.html and it'll open up in your browser with the drawing app.
