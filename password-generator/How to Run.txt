@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Password Generator. Select different criterias for generating password & click on the 'Generate Password' button.
