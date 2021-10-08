@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with quiz app. Select answers from multiple choice questions. After the quiz, score will be shown.
