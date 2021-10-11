@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Recipe App. It'll load with a random recipe. To find more, search with your query in the search box. Items matched with your query will be displayed.
