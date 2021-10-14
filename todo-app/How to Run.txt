@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with ToDo app. Enter your to do task in the ext box and press enter. Click on a to do item to mark as complete, right click ok an item to remove from the list.
