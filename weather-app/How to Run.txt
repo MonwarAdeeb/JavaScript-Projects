@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with weather app. Search for location in the search box & it'll show the weather info for that location.
