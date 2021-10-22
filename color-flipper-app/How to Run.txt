@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Color Flipper App. Click on the "Click Me" button to flip colors. Choose simple/hex color mode from the top bar.
