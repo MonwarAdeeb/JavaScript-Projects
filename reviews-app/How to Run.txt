@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Reviews App. Click on the 'Arrow Buttons' to navigate.
