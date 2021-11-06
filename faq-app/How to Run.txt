@@ -1,1 +1,1 @@
-Run index.html and it'll open up in your browser with <>. Search for <> in the search box.
+Run index.html and it'll open up in your browser with FAQ App. Click on the + icon to expand & - to  collapse an answer.
