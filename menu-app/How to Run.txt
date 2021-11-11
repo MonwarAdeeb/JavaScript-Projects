@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Menu App. Click on the filter menus to filter out foods based on categories.
