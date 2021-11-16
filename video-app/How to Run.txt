@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Video App. Click on the Play/Pause button to play or pause the video.
