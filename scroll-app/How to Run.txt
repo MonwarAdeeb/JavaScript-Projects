@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with scroll app. Use mouse wheel buttons or up/down arrow keys of your keyboard to navigate through the app. Some buttons will be visible in certain scroll positions.
