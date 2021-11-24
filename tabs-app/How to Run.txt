@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Tabs App. Click on the tabs to switch between them.
