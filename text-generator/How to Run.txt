@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Text Generator App. Input the number of paragraphs you want to generate & click on the Generate button.
