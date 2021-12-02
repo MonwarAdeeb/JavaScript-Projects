@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Slider App. Click on the next/prev button to slide the images.
