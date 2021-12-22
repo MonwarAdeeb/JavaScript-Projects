@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Snake Game. Use the arrow keys to change direction of the snake.
