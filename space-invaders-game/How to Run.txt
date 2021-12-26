@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Space Invaders App. Use the arrow keys to move & fire.
