@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Tetris Game with keys informations.
