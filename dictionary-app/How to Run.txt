@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Dictionary App. Type your word and press enter, it'll show you detailed informaton from dictionary. Click on the sound icon to hear the pronunciation.
