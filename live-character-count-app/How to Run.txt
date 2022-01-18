@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Live Character Count App. Start typing, it'll show you the number of characters you have typed.
