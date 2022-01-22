@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with Predictive Text App. Start typing & it'll start predict the word as you type.
