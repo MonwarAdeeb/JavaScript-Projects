@@ -6,3 +6,4 @@ let btnScoop1 = document.getElementById("btn-scoop1");
 let btnScoop2 = document.getElementById("btn-scoop2");
 let btnScoop3 = document.getElementById("btn-scoop3");
 let btnTopping1 = document.getElementById("btn-topping1");
+let btnTopping2 = document.getElementById("btn-topping2");
