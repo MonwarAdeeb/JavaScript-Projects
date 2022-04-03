@@ -13,3 +13,4 @@ let colors = ["#f45c96", "#f8bd3d", "#badc58", "#5c0003", "#f58619", "#ebab70"];
 let counter1 = 0;
 let counter2 = 0;
 let counter3 = 0;
+let counter4 = 0;
