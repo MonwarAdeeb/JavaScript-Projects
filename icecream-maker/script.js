@@ -16,3 +16,7 @@ let counter3 = 0;
 let counter4 = 0;
 let counter5 = 0;
 
+function setCounterValue(counter) {
+    return counter < colors.length - 1 ? counter + 1 : 0;
+}
+
