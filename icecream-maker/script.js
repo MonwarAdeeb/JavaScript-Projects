@@ -14,3 +14,5 @@ let counter1 = 0;
 let counter2 = 0;
 let counter3 = 0;
 let counter4 = 0;
+let counter5 = 0;
+
