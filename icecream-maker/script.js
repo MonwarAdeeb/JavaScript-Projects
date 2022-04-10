@@ -26,3 +26,5 @@ btnScoop1.addEventListener("click", () => {
 });
 btnScoop2.addEventListener("click", () => {
     scoop1.style.backgroundColor = colors[counter1];
+    counter1 = setCounterValue(counter1);
+});
