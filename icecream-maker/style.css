@@ -28,5 +28,5 @@ body {
   left: 0;
   right: 0;
   bottom: 90px;
-
+  border-radius: 0 0 150px 150px;
 }
