@@ -31,5 +31,6 @@ body {
   border-radius: 0 0 150px 150px;
 }
 .bowl:before {
-  
+  content: "";
+
 }
