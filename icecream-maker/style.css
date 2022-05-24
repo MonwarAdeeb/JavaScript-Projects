@@ -32,5 +32,6 @@ body {
 }
 .bowl:before {
   content: "";
+  position: absolute;
 
 }
