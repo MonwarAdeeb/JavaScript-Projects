@@ -34,5 +34,6 @@ body {
   content: "";
   position: absolute;
   height: 20px;
+  width: 110%;
 
 }
