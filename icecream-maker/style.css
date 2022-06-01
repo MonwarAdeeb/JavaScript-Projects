@@ -43,5 +43,6 @@ body {
   height: 40px;
   width: 20px;
   background-color: #afddfa;
+  position: absolute;
 
 }
