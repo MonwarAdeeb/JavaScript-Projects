@@ -56,4 +56,7 @@ body {
 }
 .base:after {
   content: "";
+  position: absolute;
+  height: 40px;
+
 }
