@@ -54,3 +54,6 @@ body {
   right: 0;
   top: 90px;
 }
+.base:after {
+  content: "";
+}
