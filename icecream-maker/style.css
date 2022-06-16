@@ -69,5 +69,6 @@ body {
   width: 130px;
   background-color: #f45c96;
   border-radius: 50%;
+  position: absolute;
 
 }
