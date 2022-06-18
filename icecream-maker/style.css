@@ -71,5 +71,9 @@ body {
   border-radius: 50%;
   position: absolute;
   background-size: 40px 150px;
-
+  background-image: radial-gradient(
+    circle at 20px 12px,
+    #f8bd3d 25px,
+    transparent 25px
+  );
 }
