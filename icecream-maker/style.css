@@ -84,5 +84,6 @@ body {
   width: 130px;
   background-color: #badc58;
   border-radius: 50%;
+  position: absolute;
 
 }
