@@ -93,5 +93,6 @@ body {
   width: 130px;
   background-color: #f58619;
   border-radius: 50%;
+  position: absolute;
 
 }
