@@ -99,5 +99,9 @@ body {
   top: 100px;
   left: 70px;
   background-size: 25px 80px;
-
+  background-image: radial-gradient(
+    circle at 12.5px 17px,
+    #5c0003 20px,
+    transparent 21px
+  );
 }
