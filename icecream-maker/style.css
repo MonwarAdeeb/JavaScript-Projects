@@ -107,4 +107,6 @@ body {
 }
 .btns {
   width: 100%;
+  display: flex;
+
 }
