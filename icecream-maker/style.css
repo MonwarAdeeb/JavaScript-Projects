@@ -114,3 +114,7 @@ body {
   padding-top: 15px;
   border-top: 2px dashed #404080;
 }
+.btns button {
+  width: 150px;
+  
+}
