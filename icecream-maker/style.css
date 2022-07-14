@@ -116,5 +116,6 @@ body {
 }
 .btns button {
   width: 150px;
-  
+  padding: 12px 0;
+
 }
