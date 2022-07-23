@@ -1,0 +1,1 @@
+Run index.html and it'll open up in your browser with icecream maker app. Click on the buttons to customize the scoops!
