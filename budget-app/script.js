@@ -1,4 +1,1 @@
-* {
-    padding: 0;
-
-}
+let totalAmount = document.getElementById("total-amount");
