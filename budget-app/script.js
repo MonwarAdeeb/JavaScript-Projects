@@ -3,3 +3,4 @@ let userAmount = document.getElementById("user-amount");
 const checkAmountButton = document.getElementById("check-amount");
 const totalAmountButton = document.getElementById("total-amount-button");
 const productTitle = document.getElementById("product-title");
+const errorMessage = document.getElementById("budget-error");
