@@ -7,3 +7,4 @@ const errorMessage = document.getElementById("budget-error");
 const productTitleError = document.getElementById("product-title-error");
 const productCostError = document.getElementById("product-cost-error");
 const amount = document.getElementById("amount");
+const expenditureValue = document.getElementById("expenditure-value");
