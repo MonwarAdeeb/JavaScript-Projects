@@ -14,5 +14,6 @@ let tempAmount = 0;
 
 //Set Budget Part
 totalAmountButton.addEventListener("click", () => {
+    tempAmount = totalAmount.value;
 
-}
+});
