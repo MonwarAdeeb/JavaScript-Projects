@@ -17,5 +17,6 @@ totalAmountButton.addEventListener("click", () => {
     tempAmount = totalAmount.value;
     //empty or negative input
     if (tempAmount === "" || tempAmount < 0) {
+        errorMessage.classList.remove("hide");
     }
 });
