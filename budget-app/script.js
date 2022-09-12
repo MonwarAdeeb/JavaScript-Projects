@@ -20,6 +20,7 @@ totalAmountButton.addEventListener("click", () => {
         errorMessage.classList.remove("hide");
     } else {
         errorMessage.classList.add("hide");
-
+        //Set Budget
+        amount.innerHTML = tempAmount;
     }
 });
