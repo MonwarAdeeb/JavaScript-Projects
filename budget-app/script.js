@@ -22,5 +22,7 @@ totalAmountButton.addEventListener("click", () => {
         errorMessage.classList.add("hide");
         //Set Budget
         amount.innerHTML = tempAmount;
+        //Set Balance
+        balanceValue.innerText = tempAmount - expenditureValue.innerText;
     }
 });
