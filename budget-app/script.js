@@ -33,6 +33,6 @@ totalAmountButton.addEventListener("click", () => {
 const disableButtons = (bool) => {
     let editButtons = document.getElementsByClassName("edit");
     Array.from(editButtons).forEach((element) => {
-
+        element.disabled = bool;
     });
-}
+};
