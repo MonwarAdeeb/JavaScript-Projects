@@ -36,3 +36,7 @@ const disableButtons = (bool) => {
         element.disabled = bool;
     });
 };
+
+//Function To Modify List Elements
+const modifyElement = (element, edit = false) => {
+};
