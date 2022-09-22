@@ -40,4 +40,6 @@ const disableButtons = (bool) => {
 //Function To Modify List Elements
 const modifyElement = (element, edit = false) => {
     let parentDiv = element.parentElement;
+    let currentBalance = balanceValue.innerText;
+
 };
