@@ -41,5 +41,6 @@ const disableButtons = (bool) => {
 const modifyElement = (element, edit = false) => {
     let parentDiv = element.parentElement;
     let currentBalance = balanceValue.innerText;
+    let currentExpense = expenditureValue.innerText;
 
 };
