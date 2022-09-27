@@ -44,6 +44,7 @@ const modifyElement = (element, edit = false) => {
     let currentExpense = expenditureValue.innerText;
     let parentAmount = parentDiv.querySelector(".amount").innerText;
     if (edit) {
+        let parentText = parentDiv.querySelector(".product").innerText;
 
     }
 };
