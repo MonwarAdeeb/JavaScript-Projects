@@ -46,6 +46,7 @@ const modifyElement = (element, edit = false) => {
     if (edit) {
         let parentText = parentDiv.querySelector(".product").innerText;
         productTitle.value = parentText;
+        userAmount.value = parentAmount;
 
     }
 };
