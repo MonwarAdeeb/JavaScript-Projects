@@ -47,6 +47,7 @@ const modifyElement = (element, edit = false) => {
         let parentText = parentDiv.querySelector(".product").innerText;
         productTitle.value = parentText;
         userAmount.value = parentAmount;
+        disableButtons(true);
 
     }
 };
