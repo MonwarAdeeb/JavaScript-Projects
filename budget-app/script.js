@@ -48,8 +48,8 @@ const modifyElement = (element, edit = false) => {
         productTitle.value = parentText;
         userAmount.value = parentAmount;
         disableButtons(true);
-        balanceValue.innerText = parseInt(currentBalance) + parseInt(parentAmount);
-        expenditureValue.innerText =
-            parseInt(currentExpense) - parseInt(parentAmount);
     }
+    balanceValue.innerText = parseInt(currentBalance) + parseInt(parentAmount);
+    expenditureValue.innerText =
+        parseInt(currentExpense) - parseInt(parentAmount);
 };
