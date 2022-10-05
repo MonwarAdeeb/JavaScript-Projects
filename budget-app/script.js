@@ -52,4 +52,5 @@ const modifyElement = (element, edit = false) => {
     balanceValue.innerText = parseInt(currentBalance) + parseInt(parentAmount);
     expenditureValue.innerText =
         parseInt(currentExpense) - parseInt(parentAmount);
+    parentDiv.remove();
 };
