@@ -54,3 +54,8 @@ const modifyElement = (element, edit = false) => {
         parseInt(currentExpense) - parseInt(parentAmount);
     parentDiv.remove();
 };
+
+//Function To Create List
+const listCreator = (expenseName, expenseValue) => {
+
+};
