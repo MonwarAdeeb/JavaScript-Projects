@@ -59,5 +59,6 @@ const modifyElement = (element, edit = false) => {
 const listCreator = (expenseName, expenseValue) => {
     let sublistContent = document.createElement("div");
     sublistContent.classList.add("sublist-content", "flex-space");
+    list.appendChild(sublistContent);
 
 };
