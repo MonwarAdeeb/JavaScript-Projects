@@ -61,5 +61,6 @@ const listCreator = (expenseName, expenseValue) => {
     sublistContent.classList.add("sublist-content", "flex-space");
     list.appendChild(sublistContent);
     sublistContent.innerHTML = `<p class="product">${expenseName}</p><p class="amount">${expenseValue}</p>`;
+    let editButton = document.createElement("button");
 
 };
