@@ -63,5 +63,6 @@ const listCreator = (expenseName, expenseValue) => {
     sublistContent.innerHTML = `<p class="product">${expenseName}</p><p class="amount">${expenseValue}</p>`;
     let editButton = document.createElement("button");
     editButton.classList.add("fa-solid", "fa-pen-to-square", "edit");
+    editButton.style.fontSize = "1.2em";
 
 };
