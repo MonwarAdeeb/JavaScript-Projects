@@ -67,4 +67,6 @@ const listCreator = (expenseName, expenseValue) => {
     editButton.addEventListener("click", () => {
         modifyElement(editButton, true);
     });
+    let deleteButton = document.createElement("button");
+
 };
