@@ -68,5 +68,6 @@ const listCreator = (expenseName, expenseValue) => {
         modifyElement(editButton, true);
     });
     let deleteButton = document.createElement("button");
+    deleteButton.classList.add("fa-solid", "fa-trash-can", "delete");
 
 };
