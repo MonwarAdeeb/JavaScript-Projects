@@ -69,5 +69,6 @@ const listCreator = (expenseName, expenseValue) => {
     });
     let deleteButton = document.createElement("button");
     deleteButton.classList.add("fa-solid", "fa-trash-can", "delete");
+    deleteButton.style.fontSize = "1.2em";
 
 };
