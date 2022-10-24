@@ -74,5 +74,6 @@ const listCreator = (expenseName, expenseValue) => {
         modifyElement(deleteButton);
     });
     sublistContent.appendChild(editButton);
+    sublistContent.appendChild(deleteButton);
 
 };
