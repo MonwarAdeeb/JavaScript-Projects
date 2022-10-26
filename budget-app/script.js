@@ -75,5 +75,5 @@ const listCreator = (expenseName, expenseValue) => {
     });
     sublistContent.appendChild(editButton);
     sublistContent.appendChild(deleteButton);
-
+    document.getElementById("list").appendChild(sublistContent);
 };
