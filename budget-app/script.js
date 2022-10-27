@@ -77,3 +77,8 @@ const listCreator = (expenseName, expenseValue) => {
     sublistContent.appendChild(deleteButton);
     document.getElementById("list").appendChild(sublistContent);
 };
+
+//Function To Add Expenses
+checkAmountButton.addEventListener("click", () => {
+
+});
