@@ -82,6 +82,7 @@ const listCreator = (expenseName, expenseValue) => {
 checkAmountButton.addEventListener("click", () => {
     //empty checks
     if (!userAmount.value || !productTitle.value) {
+        productTitleError.classList.remove("hide");
 
     }
 });
