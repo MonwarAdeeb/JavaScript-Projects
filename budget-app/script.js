@@ -87,4 +87,6 @@ checkAmountButton.addEventListener("click", () => {
     }
     //Enable buttons
     disableButtons(false);
+    //Expense
+    let expenditure = parseInt(userAmount.value);
 });
