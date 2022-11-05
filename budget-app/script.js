@@ -91,4 +91,6 @@ checkAmountButton.addEventListener("click", () => {
     let expenditure = parseInt(userAmount.value);
     //Total expense (existing + new)
     let sum = parseInt(expenditureValue.innerText) + expenditure;
+    expenditureValue.innerText = sum;
+
 });
