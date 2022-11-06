@@ -91,4 +91,7 @@ checkAmountButton.addEventListener("click", () => {
     let expenditure = parseInt(userAmount.value);
     //Total expense (existing + new)
     let sum = parseInt(expenditureValue.innerText) + expenditure;
+    expenditureValue.innerText = sum;
+    //Total balance(budget - total expense)
+    const totalBalance = tempAmount - sum;
 });
