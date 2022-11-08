@@ -94,4 +94,6 @@ checkAmountButton.addEventListener("click", () => {
     expenditureValue.innerText = sum;
     //Total balance(budget - total expense)
     const totalBalance = tempAmount - sum;
+    balanceValue.innerText = totalBalance;
+
 });
