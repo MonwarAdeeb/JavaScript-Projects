@@ -97,4 +97,7 @@ checkAmountButton.addEventListener("click", () => {
     balanceValue.innerText = totalBalance;
     //Create list
     listCreator(productTitle.value, userAmount.value);
+    //Empty inputs
+    productTitle.value = "";
+
 });
