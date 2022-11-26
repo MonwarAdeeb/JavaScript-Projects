@@ -1,1 +1,4 @@
-Run index.html and it'll open up in your browser with <>. Search for <> in the search box.
+Run index.html and it'll open up in your browser with budget app.
+Click on the set budget button to set your budget.
+Enter expensed & set amount to log your expenses.
+Information will be shown on the bottom table.
